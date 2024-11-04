@@ -1,8 +1,19 @@
 # Supplier-Quality-and-Performance-Dashboard
 
 ## Project Overview
-This project provides Enterprise Manufacturers Ltd. with a comprehensive overview of supplier quality performance, highlights key metrics, such as defect quantities, downtime, and their impacts on overall operations, centralizing critical supplier data to improve quality management and procurement efficiency. By analyzing these metrics, Enterprise Manufacturers can make data-driven decisions to minimize downtime, enhance supplier quality, and optimize operational processes.
+This project provides Enterprise Manufacturers Ltd. with a comprehensive overview of supplier quality performance, highlights key metrics, such as defect quantities, downtime, and their impacts on overall operations, centralizing critical supplier data to improve quality management and procurement efficiency. By analyzing these metrics, this dashboard offers valuable insights to help Enterprise Manufacturers Ltd:
+- Identify top-performing and underperforming suppliers
+- Enhance supplier qualit
+- Optimize procurement processes
+- Reduce downtime costs
+- Improve overall operational efficiency
 
+## Key features of the dashboard:
+- Interactive visualizations
+- Data-driven insights
+- Customizable metrics
+- User-friendly interface
+- 
 ## Tools and Data Source
 - **Tools:** Power BI, DAX
 - **Data Sources:** Supplier data was provided by Tina Okonkwo for Enterprise Manufacturers Ltd, a pseodu company. This dataset included columns such as date, vendor, plant location, category, material type, defect type, total defect quantity, and total downtime minutes
