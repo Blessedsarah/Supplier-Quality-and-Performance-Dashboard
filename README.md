@@ -98,8 +98,7 @@ This section helps in identifying and categorizing vendors based on their risk l
 ### Key Insights
 
 **Top Plants with Highest Defects:**
-**June Lake** Leads with 83 million defects, closely followed by **Prescott** (82 million), **Clarksville** (81 million), and **Savannah** (81 million).
-Other significant contributors include Weaverville, Florence, and Waldoboro, each with around 80 million defects.
+- **Hingham** Leads with 100 million defects, closely followed by **Charles City** (99 million), **Twins Rock** (97 million), and **Henning**  (96 million).
 
 ### Geographical Distribution of Defects:**
 
