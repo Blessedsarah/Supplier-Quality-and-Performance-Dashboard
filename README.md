@@ -127,6 +127,49 @@ This section helps differentiate defects that cause operational impacts from tho
 **Rejected:**
 - Plants like **Twin Rocks** and **Riverside** have a high number of rejected units, suggesting issues with quality control that may need attention.
 
+Here's an analysis of the **Material Performance Page** based on the dashboard image provided:
+
+---
+
+## Material Performance Page Analysis
+![6](https://github.com/user-attachments/assets/9b5046cc-ce2d-487e-962d-d7f401dc6fdc)
+
+### Key Insights
+
+### Defect Quantity by Material Type
+#### Top Material Types with Highest Defects
+     **Raw Materials** are the most significant source of defects, with 0.77 billion defects.
+    **Corrugate** follows closely with 0.62 billion defects.
+    **Film**, **Carton**, and **Labels** also show notable defect quantities but at lower levels compared to the top two materials.
+   - **Purpose**: This visualization helps identify which material types contribute the most to quality issues, assisting the team in targeting materials for quality improvement efforts.
+
+2. **Defect Quantity by Defect Type**:
+   - **Top Defect Types**:
+     - **Not Certified** is the leading defect type, with 152 million instances.
+     - Other significant defect types include **Bad Seams** (146 million), **Miscellaneous** (127 million), and **Foreign Material** (98 million).
+     - Minor defect types such as **Warped** and **Out of Spec** still contribute meaningfully to overall defects.
+   - **Purpose**: This chart breaks down defects by type, providing insights into the most prevalent quality issues. This can guide targeted interventions, such as certification improvements or better seam handling.
+
+3. **Defect Quantity by Category**:
+   - **Top Categories with Defects**:
+     - **Mechanicals** is the category with the highest defect quantity, amounting to 0.82 billion.
+     - **Logistics** and **Packaging** categories also show significant defect quantities, with 0.70 billion and 0.44 billion defects, respectively.
+     - **Materials & Components** and **Goods & Services** categories have moderate defect quantities.
+   - **Purpose**: This chart shows defect distribution across different categories, helping the team pinpoint which aspects of the supply chain or production processes require enhanced quality control measures.
+
+4. **Monthly Trend of Defects**:
+   - **Trend by Category**:
+     - Mechanical defects show a sharp increase in certain months, peaking significantly, which might correspond with specific production cycles or seasonal factors.
+     - Other categories like **Logistics** and **Packaging** exhibit lower but steady defect levels throughout the months.
+   - **Purpose**: The monthly trend chart visualizes defect trends over time for each category, highlighting any seasonality or cyclical quality issues. This allows for proactive planning and mitigation strategies during peak defect periods.
+
+---
+
+### Summary
+The Material Performance Page provides a comprehensive view of defect quantities by material type, defect type, and category, along with a trend analysis. It allows the team to identify problematic materials and defect types and analyze the trends, enabling more strategic planning and quality improvement initiatives.
+
+Let me know if you'd like further analysis for additional sections!
+
 
 
 
